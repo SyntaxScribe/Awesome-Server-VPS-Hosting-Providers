@@ -79,6 +79,7 @@
 - **[CloudSigma](https://www.cloudsigma.com)** – Custom CPU/RAM mix; many regional DCs; dev-friendly SLAs.
 - **[DreamHost DreamCompute](https://www.dreamhost.com/cloud/)** – OpenStack-based; simple pricing; US-based.
 - **[Fly.io](https://fly.io)** – App-focused VMs close to users; great for globally distributed apps.
+- **[France Nuage](https://france-nuage.fr)** – Sovereign open-source cloud hosted 100% in France; managed open-source apps and S3 storage.
 - **[Render](https://render.com)** – PaaS-style but with persistent VMs; good developer UX.
 - **[Scaleway Apple Silicon](https://www.scaleway.com/en/mac-mini-m1/)** – Managed M1 minis for CI/builds.
 
@@ -180,6 +181,7 @@
 - **[Netcup](https://www.netcup.eu)** (DE) – Budget root servers; frequent deals.
 - **[ArubaCloud](https://www.arubacloud.com)** (IT/EU) – Smart VPS; massive EU presence.
 - **[Exoscale](https://www.exoscale.com)** (CH/EU) – Swiss cloud; data-sovereignty focus.
+- **[France Nuage](https://france-nuage.fr)** (FR) – Sovereign open-source cloud; managed apps (Grafana, Matomo, Odoo) and S3 storage; 100% hosted in France.
 - **[Cherry Servers](https://www.cherryservers.com)** (LT) – Bare metal; dev-centric.
 - **[IONOS](https://www.ionos.com)** (DE/EU/US) – VPS/dedicated; SMB-friendly.
 - **[UpCloud](https://upcloud.com)** (FI/EU/US/APAC) – High I/O; multiple EU POPs.
