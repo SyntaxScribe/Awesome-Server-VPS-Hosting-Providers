@@ -52,8 +52,8 @@
 - **[Snel.com](https://www.snel.com)** – Netherlands; quick delivery dedicated; fair pricing.
 - **[GTHost](https://gthost.com)** – Instant dedicated servers in many locations; hourly/monthly.
 - **[OVH GAME](https://www.ovhcloud.com/en/bare-metal/game/)** – Game-optimized dedicated with special anti-DDoS profiles.
-- **[1Gbits Dedicated](https://1gbits.com/dedicated-server/)** – Global dedicated servers with rapid provisioning, unmetered bandwidth options, and many OS templates; crypto-friendly billing.
-- **[MonoVM Dedicated](https://monovm.com/dedicated-servers/)** – Worldwide dedicated servers with instant setup options, solid network, and flexible configurations; business- and developer-friendly pricing.
+- **[1Gbits Dedicated](https://1gbits.com/buy-dedicated-server/)** – Global dedicated servers with rapid provisioning, unmetered bandwidth options, and many OS templates; crypto-friendly billing.
+- **[MonoVM Dedicated](https://monovm.com/dedicated-server/)** – Worldwide dedicated servers with instant setup options, solid network, and flexible configurations; business- and developer-friendly pricing.
 
 ---
 
@@ -114,8 +114,8 @@
 - **[VPSDime](https://vpsdime.com)** – High-RAM deals at low prices; good for caches/dev boxes.
 - **[Scaleforce/Kamatera VPS](https://www.kamatera.com)** – Minute billing; scale up/down precisely.
 - **[Feral Hosting](https://www.feralhosting.com)** – Niche dev community favorite; seedbox-oriented Linux boxes.
-- **[1Gbits VPS](https://1gbits.com/vps/)** – Global Linux/Windows VPS with fast activation and many locations; fair pricing and crypto payments available.
-- **[MonoVM VPS](https://monovm.com/vps/)** – KVM-based Linux/Windows VPS and RDP; worldwide locations; flexible billing including crypto.
+- **[1Gbits VPS](https://1gbits.com/buy-vps-hosting/)** – Global Linux/Windows VPS with fast activation and many locations; fair pricing and crypto payments available.
+- **[MonoVM VPS](https://monovm.com/vps-server/)** – KVM-based Linux/Windows VPS and RDP; worldwide locations; flexible billing including crypto.
 
 ---
 
