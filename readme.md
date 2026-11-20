@@ -130,6 +130,7 @@
 - **[RoseHosting](https://www.rosehosting.com)** – Fully managed Linux VPS; will install/customize on request.
 - **[Nexcess (by Liquid Web)](https://www.nexcess.net)** – Managed WooCommerce/Magento/WordPress on VPS-like infra.
 - **[RunCloud / Ploi / Forge](https://runcloud.io)** – Not providers, but beloved server managers for DIY on your own VPS/cloud.
+- **[NodeRings](https://noderings.com)** – Marketplace and console that connects independent hosting providers and customers to discover, deploy, and manage compute infrastructure.
 
 ---
 
